@@ -12,8 +12,6 @@ PDF Connector to prosta i intuicyjna aplikacja do łączenia wielu plików PDF w
 
 ## 📥 Pobieranie
 
-### Opcja 1: Pobierz gotową aplikację (.exe)
-
 Najłatwiejszy sposób na korzystanie z PDF Connector:
 
 1. Przejdź do zakładki [Releases](https://github.com/L-JANUSZ/PDF-connector/releases) w tym repozytorium
@@ -69,24 +67,12 @@ python pdf_connector.py
 
 ### Dla wersji .exe:
 - System operacyjny: Windows 7 lub nowszy
-- Brak dodatkowych wymagań - wszystko jest spakowane w aplikacji!
 
 ### Dla wersji źródłowej:
 - Python 3.6 lub nowszy
 - Biblioteki wymienione w `requirements.txt`:
   - PyPDF2
   - tkinter (zazwyczaj dołączony do Pythona)
-
-## 🛠️ Tworzenie pliku wykonywalnego
-
-Jeśli chcesz samodzielnie zbudować plik .exe:
-
-```bash
-pip install pyinstaller
-pyinstaller PDF_Connector.spec
-```
-
-Plik wykonywalny zostanie utworzony w folderze `dist/`.
 
 ## 📝 Licencja
 
