@@ -19,7 +19,7 @@ Najłatwiejszy sposób na korzystanie z PDF Connector:
 3. Zapisz plik w wybranej lokalizacji na swoim komputerze
 
 **Alternatywnie:** Możesz również pobrać plik bezpośrednio z folderu `dist/`:
-- Kliknij [tutaj](https://github.com/L-JANUSZ/PDF-connector/raw/main/dist/PDF_Connector.exe), aby pobrać `PDF_Connector.exe`
+- Kliknij [tutaj](https://github.com/L-JANUSZ/PDF-connector/blob/master/dist/PDF_Connector.exe), aby pobrać `PDF_Connector.exe`
 
 ### Opcja 2: Uruchom ze źródła (wymagany Python)
 
